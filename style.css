@@ -1,0 +1,53 @@
+body {
+    font-family: 'Supermercado One', cursive;
+    background-color: white;
+}
+
+#gif,
+#gif2 {
+    width: 100px;
+    height: 100px;
+}
+
+.heading {
+    background-color: white;
+    color: darkkhaki;
+}
+
+.modeldiv{
+    background-color: pink;
+    border: 5px solid rgba(246, 153, 169, 0.733);
+    box-shadow: 10px 10px 10px palevioletred;
+    padding: 10px;
+    font-size: 20px;
+}
+#camera,
+#result {
+    border: 7px ridge pink;
+    width: 475px;
+    height: 300px;
+    box-shadow: 10px 10px 10px palevioletred;
+}
+
+#capture1, #capture2 {
+    font-size: 16px;
+    font-weight: bolder;
+    width: 350px;
+}
+
+.object_div h4 {
+    background-color: whitesmoke;
+    border-radius: 100px;
+    padding: 5px;
+    margin-top: 50px;
+}
+.model_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: gainsboro;
+    color: grey;
+    line-height: 3;
+    text-align: center;
+    font-size: large;
+}
